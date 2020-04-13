@@ -1,0 +1,39 @@
+Patient Disease details 
+==========================================================
+Disease 		 Severity 		 Symptoms
+**********************************************************
+Brain tumour   		Low 		Acidity
+**********************************************************
+Patient Disease details 
+==========================================================
+Disease 		 Severity 		 Symptoms
+**********************************************************
+Brain tumour   		Low 		Acidity
+**********************************************************
+Patient Disease details 
+==========================================================
+Disease 		 Severity 		 Symptoms
+**********************************************************
+Brain tumour   		Low 		Headache
+Brain tumour   		Low 		Headache
+Brain tumour   		Low 		Headache
+Brain tumour   		Low 		Headache
+Brain tumour   		Low 		Acidity
+**********************************************************
+Patient Disease details 
+==========================================================
+Disease 		 Severity 		 Symptoms
+**********************************************************
+Corona   		Medium 		Cough
+Brain tumour   		Low 		Cough
+**********************************************************
+Patient Disease details 
+==========================================================
+Disease 		 Severity 		 Symptoms
+**********************************************************
+Corona   		Medium 		Cold
+Corona   		Medium 		Cold
+Brain tumour   		Low 		Cold
+Malaria   		Medium 		Cold
+cold   		High 		Cold
+**********************************************************

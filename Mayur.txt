@@ -1,0 +1,11 @@
+Patient Disease details 
+==========================================================
+Disease 		 Severity 		 Symptoms
+**********************************************************
+fever   		High 		Fever
+Malaria   		Medium 		Fever
+Corona   		Medium 		Fever
+Brain tumour   		Low 		Fever
+Brain tumour   		Low 		Acidity
+Hanta   		High 		Fever
+**********************************************************

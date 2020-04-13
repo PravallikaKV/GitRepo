@@ -1,0 +1,1848 @@
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************
+Available Teams: 
+==========================================================
+Team_Id 		 Team_Name 		 Team_City
+**********************************************************
+1   		Telugu Titans 		Hyderabad
+2   		U Mumba 		Mumbai
+3   		Bengaluru Bulls 		Bangalore
+4   		Tamil Thalaivas 		Tamilnadu
+5   		Dabang Delhi 		Delhi
+6   		patna pirates 		patna
+7   		Bengal warriors 		kolkatta
+8   		HaryanaSteelers 		Haryana
+9   		HaryanaSteelers 		Haryana
+**********************************************************

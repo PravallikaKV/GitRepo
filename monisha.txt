@@ -1,0 +1,15 @@
+Patient Disease details 
+==========================================================
+Disease 		 Severity 		 Symptoms
+**********************************************************
+Brain tumour   		Low 		Headache
+Brain tumour   		Low 		Headache
+Corona   		Medium 		Cold
+Corona   		Medium 		Cold
+Brain tumour   		Low 		Headache
+Brain tumour   		Low 		Headache
+Brain tumour   		Low 		Cold
+Malaria   		Medium 		Cold
+cold   		High 		Cold
+Migrane   		Low 		Headache
+**********************************************************

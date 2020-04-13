@@ -1,0 +1,13 @@
+Patient Disease details 
+==========================================================
+Disease 		 Severity 		 Symptoms
+**********************************************************
+Brain tumour   		Low 		Headache
+Brain tumour   		Low 		Headache
+fever   		High 		Fever
+Malaria   		Medium 		Fever
+Brain tumour   		Low 		Headache
+Brain tumour   		Low 		Headache
+Corona   		Medium 		Fever
+Brain tumour   		Low 		Fever
+**********************************************************
